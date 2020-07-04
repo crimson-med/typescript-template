@@ -4,7 +4,7 @@
   "description": "simple quick start template for typescript",
   "main": "src/index.ts",
   "author": "Burlet Mederic",
-  "license": "MIT",
+  "license": "GNU-GPL-3-0-only",
   "private": false,
   "scripts": {
     "dev": "nodemon",
